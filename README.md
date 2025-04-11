@@ -19,8 +19,8 @@ This Python script calculates the GitLab CI minutes used by selected projects wi
 1. Clone the repository:
 
    ```bash
-   git clone <REPO_URL>
-   cd <REPO_NAME>
+   git clone https://github.com/ohnotnow/gitlab-ci-counter
+   cd gitlab-ci-counter
    ```
 
 2. Install dependencies using [`uv`](https://docs.astral.sh/uv/):
